@@ -1,7 +1,7 @@
+<img src="github-header-image.png">
+
 #  Sobre Mi:
 ¡Hola! Soy un apasionado programador de 21 años de México, siempre listo para enfrentar nuevos desafíos y aprender cada día más. Desde que comencé mi viaje en la programación, he descubierto que no solo disfruto resolver problemas, sino también colaborar con otros para crear soluciones innovadoras.<br><br>Soy una persona solidaria y creo firmemente en el poder del trabajo en equipo. Me enfoco en mis tareas y tengo una mentalidad proactiva, siempre buscando maneras de contribuir y mejorar en cada proyecto en el que participo.<br><br>Mis habilidades se extienden a varios lenguajes de programación y tecnologías, y estoy entusiasmado por aplicar y expandir mis conocimientos en entornos dinámicos. Estoy aquí para dejar mi huella en el mundo del desarrollo, así que si tienes un proyecto en mente o simplemente quieres conectar, ¡no dudes en contactarme!
-
-<img src="github-header-image.png">
 
 
 ## 🌐 Socials:
